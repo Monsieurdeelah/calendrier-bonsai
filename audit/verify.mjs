@@ -15,7 +15,7 @@ assert.equal(fs.readFileSync('audit/controle-1092-cases.csv','utf8').trim().spli
 const embedded=JSON.parse(html.match(/const DATA=([\s\S]*?);\nconst MONTHS/)[1]); assert.deepEqual(embedded,data);
 const script=html.match(/<script>([\s\S]*?)<\/script>/)[1]; new vm.Script(script);
 class El {constructor(){this.value='';this.checked=true;this.children=[];this.attrs={};this.innerHTML='';}setAttribute(k,v){this.attrs[k]=v;}appendChild(c){this.children.push(c);}addEventListener(){}querySelector(s){return this[s]??=new El();}}
-const els={}; const doc={getElementById:id=>els[id]??=new El(),createElement:()=>new El(),querySelectorAll:()=>els.months.children};
+const els={}; const doc={getElementById:id=>els[id]??=new El(),createElement:()=>new El(),querySelectorAll:()=>els.months.children,addEventListener(){}};
 const context=vm.createContext({document:doc,localStorage:{getItem:()=>null,setItem(){}},Date});
 doc.getElementById('status').value='active';vm.runInContext(script,context);
 let renders=0;
@@ -25,7 +25,7 @@ const expected=data.filter(x=>(!f||x.family===f)).filter(x=>{const v=x.months[m]
 assert(els.count.textContent.startsWith(expected+' intervention'),`${m} ${f} ${st}`);renders++;
 }
 els.task.value=data[0].task;els.family.value='';els.status.value='all';vm.runInContext('render()',context);assert(els.count.textContent.startsWith(data.filter(x=>x.task===data[0].task).length+' intervention'));
-for(const f of ['',...new Set(data.map(x=>x.family))]){els.overviewFamily.value=f;vm.runInContext('renderOverview()',context);assert.equal((els.overviewTable.querySelector('tbody').innerHTML.match(/<tr /g)||[]).length,data.filter(x=>!f||x.family===f).length);}
+for(const f of ['',...new Set(data.map(x=>x.family))]){els.overviewFamily.value=f;vm.runInContext('renderOverview()',context);assert.equal((els.overviewTable.querySelector('tbody').innerHTML.match(/<tr data-family=/g)||[]).length,data.filter(x=>!f||x.family===f).length);}
 assert(!data.filter(x=>x.family==='Tamarin').some(x=>x.months.includes('OPTIMAL')));
 assert(data.filter(x=>x.family==='Pin blanc du Japon'||x.family==='Pin sylvestre').every(x=>!x.task.includes('Mekiri')));
 const result={date:'2026-11-16',originalRows:old.length,originalCells:old.length*12,proposedRows:data.length,proposedCells:data.length*12,monthlyFilterRenders:renders,annualViews:14,syntax:'OK',coverage:'OK',note:'DOM simulé ; pas de vérification visuelle réelle ni de validation biologique par les tests.'};
