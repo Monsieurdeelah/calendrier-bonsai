@@ -1,0 +1,112 @@
+{
+  "Pin blanc du Japon": {
+    "exposure": "Soleil ; légère ombre aux heures brûlantes",
+    "hardiness": "Rustique, mais vigueur variable selon cultivar et porte-greffe",
+    "pot": "Protéger les petites coupes et les racines du gel durable ; abriter du vent.",
+    "sources": [
+      "WZ",
+      "WP"
+    ]
+  },
+  "Pin sylvestre": {
+    "exposure": "Plein soleil",
+    "hardiness": "Très rustique une fois acclimaté",
+    "pot": "Isoler le pot pendant les gels prolongés ; éviter vent desséchant et motte détrempée.",
+    "sources": [
+      "GS"
+    ]
+  },
+  "Chamaecyparis": {
+    "exposure": "Soleil, abrité du vent",
+    "hardiness": "Rusticité variable selon espèce/cultivar",
+    "pot": "Protéger le pot et du vent hivernal ; ne pas laisser dessécher la motte.",
+    "sources": [
+      "HC"
+    ]
+  },
+  "Juniperus chinensis": {
+    "exposure": "Plein soleil ; ombre légère en canicule",
+    "hardiness": "Rustique ; attention aux épisodes longs",
+    "pot": "Protéger les racines du gel durable et des vents ; garder un drainage efficace.",
+    "sources": [
+      "GJP",
+      "EJ"
+    ]
+  },
+  "Hêtre": {
+    "exposure": "Soleil doux ou mi-ombre ; protéger du soleil brûlant",
+    "hardiness": "Rustique ; jeunes feuilles sensibles aux gelées tardives",
+    "pot": "Isoler le pot ; abriter les pousses au débourrement.",
+    "sources": [
+      "GH",
+      "HH"
+    ]
+  },
+  "Chêne": {
+    "exposure": "Plein soleil, bonne aération",
+    "hardiness": "Chênes caducs européens rustiques ; vérifier l’espèce",
+    "pot": "En bonsaï, protéger des gels forts ; le chêne en pleine terre ne donne pas le seuil de ses racines en pot.",
+    "sources": [
+      "GQ",
+      "HQ"
+    ]
+  },
+  "Charme": {
+    "exposure": "Soleil doux ou mi-ombre",
+    "hardiness": "Rustique ; dépend de l’espèce",
+    "pot": "Protéger le pot des gels prolongés et les jeunes feuilles des gelées tardives.",
+    "sources": [
+      "GC",
+      "HR"
+    ]
+  },
+  "Érables du Japon": {
+    "exposure": "Soleil du matin, mi-ombre l’après-midi en été",
+    "hardiness": "Rustique ; bourgeons ouverts et jeunes feuilles fragiles",
+    "pot": "Protéger le pot du froid durable ; abriter dès le débourrement si gel annoncé.",
+    "sources": [
+      "EE"
+    ]
+  },
+  "Mélèzes": {
+    "exposure": "Soleil ; mi-ombre possible en forte chaleur",
+    "hardiness": "Très rustique au repos, généralement plus que les satsuki",
+    "pot": "La résistance de l’arbre n’exclut pas la surveillance des petits pots et des pousses nouvelles.",
+    "sources": [
+      "HL"
+    ]
+  },
+  "Tamarin": {
+    "exposure": "Très lumineux, soleil progressif ; ombre aux heures brûlantes",
+    "hardiness": "Tropical, non rustique ; aucun gel",
+    "pot": "Hiverner en pièce chaude et lumineuse, environ 15–29 °C selon le guide ; rentrer avant les nuits froides.",
+    "sources": [
+      "ET"
+    ]
+  },
+  "Ficus": {
+    "exposure": "Très lumineux ; acclimater progressivement au soleil",
+    "hardiness": "Tropical, non rustique ; aucun gel",
+    "pot": "Hiverner au chaud et à la lumière ; ne pas attendre les premières gelées pour rentrer.",
+    "sources": [
+      "EF"
+    ]
+  },
+  "Pin noir du Japon": {
+    "exposure": "Plein soleil",
+    "hardiness": "Rustique, moins adapté aux froids prolongés qu’un pin sylvestre",
+    "pot": "Protéger le pot du gel durable, surtout petits sujets et arbres récemment travaillés.",
+    "sources": [
+      "GN",
+      "EP"
+    ]
+  },
+  "Azalée satsuki": {
+    "exposure": "Soleil doux ou mi-ombre ; ombrer en forte chaleur",
+    "hardiness": "Tolère des gelées modérées ; plus sensible que le mélèze",
+    "pot": "Abri froid lumineux lors des gels marqués ; Empire conseille protection sous −5 °C, repère et non garantie pour chaque pot.",
+    "sources": [
+      "EA"
+    ]
+  }
+}

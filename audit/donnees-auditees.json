@@ -10,25 +10,24 @@
       "HORS FENÊTRE",
       "SOUS CONDITIONS",
       "OPTIMAL",
-      "SOUS CONDITIONS",
+      "OPTIMAL",
       "HORS FENÊTRE",
       "HORS FENÊTRE",
       "HORS FENÊTRE",
-      "SOUS CONDITIONS",
-      "SOUS CONDITIONS",
+      "HORS FENÊTRE",
+      "HORS FENÊTRE",
       "HORS FENÊTRE",
       "HORS FENÊTRE",
       "HORS FENÊTRE"
     ],
-    "note": "Bourgeons gonflants avant allongement ; fin été réservée aux cultivateurs expérimentés.",
+    "note": "Pinus parviflora/pentaphylla, cinq aiguilles : rempoter au printemps selon les bourgeons et avant allongement. Automne retiré du scénario par défaut ; protéger la motte après intervention.",
     "confidence": "moyenne",
     "timingConfidence": "moyenne",
     "sources": [
-      "EP",
-      "BP",
-      "HP"
+      "WP",
+      "WZ"
     ],
-    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois."
+    "decision": "Réaudit V3.1 du 16 novembre 2026 : synthèse locale des sources dédiées ; mois indicatifs, stade et météo prioritaires."
   },
   {
     "id": "F1-T2",
@@ -39,27 +38,26 @@
     "task": "Taille structurelle lourde",
     "months": [
       "HORS FENÊTRE",
+      "HORS FENÊTRE",
+      "HORS FENÊTRE",
+      "HORS FENÊTRE",
+      "HORS FENÊTRE",
+      "HORS FENÊTRE",
+      "HORS FENÊTRE",
       "SOUS CONDITIONS",
       "SOUS CONDITIONS",
-      "DÉCONSEILLÉ",
-      "DÉCONSEILLÉ",
-      "DÉCONSEILLÉ",
-      "DÉCONSEILLÉ",
-      "DÉCONSEILLÉ",
       "SOUS CONDITIONS",
-      "OPTIMAL",
       "SOUS CONDITIONS",
-      "SOUS CONDITIONS"
+      "HORS FENÊTRE"
     ],
-    "note": "Automne privilégié ; hors gel. Conserver des relais feuillés. Pas de coupe lourde au débourrement.",
+    "note": "Branches août/septembre selon Bonsai Today ; raccourcissement mi-automne selon Herons. Aucun optimum de taille massive suffisamment concordant : conserver des relais feuillés, étaler les réductions. Ne pas rempoter la même année que les gros travaux.",
     "confidence": "moyenne",
     "timingConfidence": "moyenne",
     "sources": [
-      "EP",
-      "BP",
-      "HP"
+      "WP",
+      "WH"
     ],
-    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois."
+    "decision": "Réaudit V3.1 du 16 novembre 2026 : synthèse locale des sources dédiées ; mois indicatifs, stade et météo prioritaires."
   },
   {
     "id": "F1-T3",
@@ -74,23 +72,23 @@
       "HORS FENÊTRE",
       "HORS FENÊTRE",
       "HORS FENÊTRE",
-      "SOUS CONDITIONS",
-      "SOUS CONDITIONS",
       "HORS FENÊTRE",
-      "OPTIMAL",
-      "OPTIMAL",
+      "HORS FENÊTRE",
       "SOUS CONDITIONS",
-      "SOUS CONDITIONS"
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "HORS FENÊTRE"
     ],
-    "note": "Raccourcir vers une pousse vivante établie ; ne pas rechercher une seconde pousse par décandellation.",
+    "note": "Raccourcir sur un relais vivant avec aiguilles ; fin été ou mi-automne selon protocole. Aucun mekiri de pin noir.",
     "confidence": "moyenne",
     "timingConfidence": "moyenne",
     "sources": [
-      "EP",
-      "BP",
-      "HP"
+      "WP",
+      "WZ",
+      "WH"
     ],
-    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois."
+    "decision": "Réaudit V3.1 du 16 novembre 2026 : synthèse locale des sources dédiées ; mois indicatifs, stade et météo prioritaires."
   },
   {
     "id": "F1-T4",
@@ -113,15 +111,14 @@
       "HORS FENÊTRE",
       "HORS FENÊTRE"
     ],
-    "note": "Seulement chandelles fortes en allongement ; laisser pousser les branches à épaissir.",
-    "confidence": "élevée",
+    "note": "Réduire sélectivement les chandelles fortes encore tendres selon leur stade ; ne pas enlever toute la pousse et laisser allonger les branches à épaissir.",
+    "confidence": "moyenne",
     "timingConfidence": "moyenne",
     "sources": [
-      "EP",
-      "BP",
-      "HP"
+      "WP",
+      "WZ"
     ],
-    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois."
+    "decision": "Réaudit V3.1 du 16 novembre 2026 : synthèse locale des sources dédiées ; mois indicatifs, stade et météo prioritaires."
   },
   {
     "id": "F1-T5",
@@ -138,21 +135,19 @@
       "HORS FENÊTRE",
       "HORS FENÊTRE",
       "HORS FENÊTRE",
+      "HORS FENÊTRE",
       "SOUS CONDITIONS",
       "SOUS CONDITIONS",
-      "OPTIMAL",
       "SOUS CONDITIONS",
-      "SOUS CONDITIONS"
+      "HORS FENÊTRE"
     ],
-    "note": "Conserver les aiguilles des zones faibles ; sélectionner selon vigueur, sans quota universel.",
+    "note": "Nettoyer les aiguilles anciennes jaunes ou brunes en automne. Pas de désaiguillage fort copié du pin noir ; sélection de bourgeons non validée séparément.",
     "confidence": "moyenne",
     "timingConfidence": "moyenne",
     "sources": [
-      "EP",
-      "BP",
-      "HP"
+      "WZ"
     ],
-    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois."
+    "decision": "Réaudit V3.1 du 16 novembre 2026 : synthèse locale des sources dédiées ; mois indicatifs, stade et météo prioritaires."
   },
   {
     "id": "F1-T6",
@@ -165,25 +160,24 @@
       "SOUS CONDITIONS",
       "SOUS CONDITIONS",
       "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "HORS FENÊTRE",
       "HORS FENÊTRE",
       "HORS FENÊTRE",
       "HORS FENÊTRE",
       "HORS FENÊTRE",
       "SOUS CONDITIONS",
       "SOUS CONDITIONS",
-      "OPTIMAL",
-      "OPTIMAL",
       "SOUS CONDITIONS"
     ],
-    "note": "Ne pas travailler sur bois gelé ; pliage lourd à planifier séparément, sans rempotage associé.",
+    "note": "Positionnement prudent, surveillance du fil. Printemps selon Zulauf ; automne/hiver selon d’autres pratiques. Pas de pliages lourds ni de rempotage cumulés.",
     "confidence": "moyenne",
     "timingConfidence": "moyenne",
     "sources": [
-      "EP",
-      "BP",
-      "HP"
+      "WZ",
+      "WP"
     ],
-    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois."
+    "decision": "Réaudit V3.1 du 16 novembre 2026 : synthèse locale des sources dédiées ; mois indicatifs, stade et météo prioritaires."
   },
   {
     "id": "F1-T7",
@@ -206,13 +200,12 @@
       "NON DOCUMENTÉ",
       "NON DOCUMENTÉ"
     ],
-    "note": "Aucun calendrier fiable pour le cultivar de la collection ; ne pas extrapoler les capacités du Zuisho.",
+    "note": "Aucun calendrier actif : protocole et cultivar à préciser. La mention de multiplication dans une fiche ne suffit pas à valider les mois ni Hagoromo/Kokonoe.",
     "confidence": "faible",
     "timingConfidence": "faible",
     "sources": [
-      "EP",
-      "BP",
-      "HP"
+      "WP",
+      "WZ"
     ],
     "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois."
   },
@@ -230,24 +223,23 @@
       "HORS FENÊTRE",
       "HORS FENÊTRE",
       "HORS FENÊTRE",
-      "SOUS CONDITIONS",
-      "SOUS CONDITIONS",
       "HORS FENÊTRE",
+      "HORS FENÊTRE",
+      "SOUS CONDITIONS",
       "SOUS CONDITIONS",
       "SOUS CONDITIONS",
       "SOUS CONDITIONS",
       "HORS FENÊTRE"
     ],
-    "note": "Construire par étapes : laisser allonger pour épaissir, puis revenir sur un relais suffisamment fort. Ce n’est pas la suppression d’une grosse charpentière. Sur arbre abouti, limiter à la correction nécessaire.",
+    "note": "Laisser croître les branches à épaissir, puis revenir progressivement sur des relais feuillés. Fin été/automne conditionnels ; aucune seconde pousse recherchée par décandellation.",
     "confidence": "moyenne",
     "timingConfidence": "moyenne",
     "sources": [
-      "EP",
-      "BP",
-      "HP",
-      "GCG"
+      "WP",
+      "WZ",
+      "WH"
     ],
-    "decision": "Ligne ajoutée pour distinguer objectif de formation et taille lourde ; calendrier adapté par jugement horticole."
+    "decision": "Réaudit V3.1 du 16 novembre 2026 : synthèse locale des sources dédiées ; mois indicatifs, stade et météo prioritaires."
   },
   {
     "id": "F1-T9",
@@ -257,25 +249,25 @@
     "family": "Pin blanc du Japon",
     "task": "Greffe (protocole à préciser)",
     "months": [
-      "HORS FENÊTRE",
-      "SOUS CONDITIONS",
-      "SOUS CONDITIONS",
-      "HORS FENÊTRE",
-      "HORS FENÊTRE",
-      "HORS FENÊTRE",
-      "HORS FENÊTRE",
-      "HORS FENÊTRE",
-      "HORS FENÊTRE",
-      "HORS FENÊTRE",
-      "HORS FENÊTRE",
-      "HORS FENÊTRE"
+      "NON DOCUMENTÉ",
+      "NON DOCUMENTÉ",
+      "NON DOCUMENTÉ",
+      "NON DOCUMENTÉ",
+      "NON DOCUMENTÉ",
+      "NON DOCUMENTÉ",
+      "NON DOCUMENTÉ",
+      "NON DOCUMENTÉ",
+      "NON DOCUMENTÉ",
+      "NON DOCUMENTÉ",
+      "NON DOCUMENTÉ",
+      "NON DOCUMENTÉ"
     ],
-    "note": "Greffe de greffon en fin hiver sous protection ; protocole, porte-greffe et cultivar à vérifier. Ce calendrier ne couvre pas toutes les greffes par approche.",
-    "confidence": "moyenne",
-    "timingConfidence": "moyenne",
+    "note": "Aucun calendrier actif : protocole et cultivar à préciser. La mention de multiplication dans une fiche ne suffit pas à valider les mois ni Hagoromo/Kokonoe.",
+    "confidence": "faible",
+    "timingConfidence": "faible",
     "sources": [
-      "HP",
-      "FFB"
+      "WP",
+      "WZ"
     ],
     "decision": "Ancienne ligne marcotte/greffe scindée ; absence de protocole signalée explicitement."
   },
@@ -339,7 +331,7 @@
       "EP",
       "VS"
     ],
-    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois."
+    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois. Réexaminé en V3.1 : fenêtre conservée, limites et arbitrage détaillés dans le rapport."
   },
   {
     "id": "F2-T3",
@@ -617,7 +609,7 @@
       "HC",
       "FFB"
     ],
-    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois."
+    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois. Réexaminé en V3.1 : fenêtre conservée, limites et arbitrage détaillés dans le rapport."
   },
   {
     "id": "F3-T3",
@@ -872,10 +864,10 @@
     "task": "Taille structurelle lourde",
     "months": [
       "HORS FENÊTRE",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
       "HORS FENÊTRE",
-      "SOUS CONDITIONS",
-      "SOUS CONDITIONS",
-      "SOUS CONDITIONS",
       "DÉCONSEILLÉ",
       "DÉCONSEILLÉ",
       "DÉCONSEILLÉ",
@@ -884,15 +876,14 @@
       "HORS FENÊTRE",
       "HORS FENÊTRE"
     ],
-    "note": "Fenêtres proposées sous conditions, sans optimum validé ; préserver feuillage et veines vivantes.",
-    "confidence": "faible",
-    "timingConfidence": "faible",
+    "note": "Fenêtre privilégiée : fin février à début mars, avant reprise et hors gel, avec protection possible. Le code O du mois ne vaut pas pour tout février/mars. Préserver feuillage arrière et veines vivantes ; ne pas cumuler rempotage fort et taille lourde.",
+    "confidence": "moyenne",
+    "timingConfidence": "moyenne",
     "sources": [
-      "EJ",
-      "BJ",
-      "FFB"
+      "GJP",
+      "EJ"
     ],
-    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois."
+    "decision": "Réaudit V3.1 du 16 novembre 2026 : synthèse locale des sources dédiées ; mois indicatifs, stade et météo prioritaires."
   },
   {
     "id": "F4-T3",
@@ -1174,7 +1165,7 @@
       "GHP",
       "HH"
     ],
-    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois."
+    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois. Réexaminé en V3.1 : fenêtre conservée, limites et arbitrage détaillés dans le rapport."
   },
   {
     "id": "F5-T3",
@@ -1456,7 +1447,7 @@
       "HQ",
       "FFB"
     ],
-    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois."
+    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois. Réexaminé en V3.1 : fenêtre conservée, limites et arbitrage détaillés dans le rapport."
   },
   {
     "id": "F6-T3",
@@ -1738,7 +1729,7 @@
       "HR",
       "FFB"
     ],
-    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois."
+    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois. Réexaminé en V3.1 : fenêtre conservée, limites et arbitrage détaillés dans le rapport."
   },
   {
     "id": "F7-T3",
@@ -2022,7 +2013,7 @@
       "GE",
       "PP"
     ],
-    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois."
+    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois. Réexaminé en V3.1 : fenêtre conservée, limites et arbitrage détaillés dans le rapport."
   },
   {
     "id": "F8-T3",
@@ -2306,7 +2297,7 @@
       "HL",
       "FFB"
     ],
-    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois."
+    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois. Réexaminé en V3.1 : fenêtre conservée, limites et arbitrage détaillés dans le rapport."
   },
   {
     "id": "F9-T3",
@@ -2577,7 +2568,7 @@
     "sources": [
       "ET"
     ],
-    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois."
+    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois. Réexaminé en V3.1 : fenêtre conservée, limites et arbitrage détaillés dans le rapport."
   },
   {
     "id": "F10-T3",
@@ -2845,7 +2836,7 @@
       "BF",
       "GJ"
     ],
-    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois."
+    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois. Réexaminé en V3.1 : fenêtre conservée, limites et arbitrage détaillés dans le rapport."
   },
   {
     "id": "F11-T3",
@@ -3126,7 +3117,7 @@
       "EP",
       "BP"
     ],
-    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois."
+    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois. Réexaminé en V3.1 : fenêtre conservée, limites et arbitrage détaillés dans le rapport."
   },
   {
     "id": "F12-T3",
@@ -3412,7 +3403,7 @@
       "BA",
       "FFB"
     ],
-    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois."
+    "decision": "Fenêtres mensuelles proposées par l’audit pour Reims, déduites des stades et saisons ; les sources ne valident pas chaque mois. Réexaminé en V3.1 : fenêtre conservée, limites et arbitrage détaillés dans le rapport."
   },
   {
     "id": "F13-T3",
