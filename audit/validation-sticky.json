@@ -1,0 +1,29 @@
+{
+  "engine": "Edge/Chromium",
+  "results": [
+    {
+      "width": 1440,
+      "combinations": 196,
+      "scrollPositions": 3,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "combinations": 196,
+      "scrollPositions": 3,
+      "errors": []
+    },
+    {
+      "width": 375,
+      "combinations": 196,
+      "scrollPositions": 3,
+      "errors": []
+    },
+    {
+      "width": 320,
+      "combinations": 196,
+      "scrollPositions": 3,
+      "errors": []
+    }
+  ]
+}

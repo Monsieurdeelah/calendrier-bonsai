@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "L1",
+    "family": "Pin blanc du Japon",
+    "task": "Rempotage",
+    "months": [
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": "Pas de mekiri systématique ; gestion des chandelles selon vigueur et cultivar. Désaiguillage modéré. Hagoromo/Kononoe : adapter à la phase de développement."
+  },
+  {
+    "id": "L2",
+    "family": "Pin blanc du Japon",
+    "task": "Taille de structure",
+    "months": [
+      "—",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L3",
+    "family": "Pin blanc du Japon",
+    "task": "Taille entretien",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L4",
+    "family": "Pin blanc du Japon",
+    "task": "Pincement / chandelles",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L5",
+    "family": "Pin blanc du Japon",
+    "task": "Aiguilles / bourgeons",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L6",
+    "family": "Pin blanc du Japon",
+    "task": "Ligature",
+    "months": [
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L7",
+    "family": "Pin blanc du Japon",
+    "task": "Marcotte / greffe",
+    "months": [
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L8",
+    "family": "Pin sylvestre",
+    "task": "Rempotage",
+    "months": [
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": "Équilibrer chandelles au printemps ; ne pas transposer automatiquement le mekiri du pin noir. Éclaircir en automne sans épuiser les zones faibles."
+  },
+  {
+    "id": "L9",
+    "family": "Pin sylvestre",
+    "task": "Taille de structure",
+    "months": [
+      "—",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L10",
+    "family": "Pin sylvestre",
+    "task": "Taille entretien",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L11",
+    "family": "Pin sylvestre",
+    "task": "Pincement / chandelles",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L12",
+    "family": "Pin sylvestre",
+    "task": "Aiguilles / bourgeons",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L13",
+    "family": "Pin sylvestre",
+    "task": "Ligature",
+    "months": [
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L14",
+    "family": "Pin sylvestre",
+    "task": "Marcotte / greffe",
+    "months": [
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L15",
+    "family": "Chamaecyparis",
+    "task": "Rempotage",
+    "months": [
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": "Ne pas tailler jusqu’au vieux bois nu : repercement incertain. Conserver du feuillage vivant sur les rameaux. Ligature avec contrôle des marques."
+  },
+  {
+    "id": "L16",
+    "family": "Chamaecyparis",
+    "task": "Taille de structure",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L17",
+    "family": "Chamaecyparis",
+    "task": "Taille entretien",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L18",
+    "family": "Chamaecyparis",
+    "task": "Pincement / chandelles",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L19",
+    "family": "Chamaecyparis",
+    "task": "Aiguilles / bourgeons",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L20",
+    "family": "Chamaecyparis",
+    "task": "Ligature",
+    "months": [
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L21",
+    "family": "Chamaecyparis",
+    "task": "Marcotte / greffe",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L22",
+    "family": "Juniperus chinensis",
+    "task": "Rempotage",
+    "months": [
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": "Éclaircir par sélection aux ciseaux, pas par pincement généralisé des pointes. Garder une masse foliaire suffisante après travail du bois mort."
+  },
+  {
+    "id": "L23",
+    "family": "Juniperus chinensis",
+    "task": "Taille de structure",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L24",
+    "family": "Juniperus chinensis",
+    "task": "Taille entretien",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L25",
+    "family": "Juniperus chinensis",
+    "task": "Pincement / chandelles",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L26",
+    "family": "Juniperus chinensis",
+    "task": "Aiguilles / bourgeons",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L27",
+    "family": "Juniperus chinensis",
+    "task": "Ligature",
+    "months": [
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L28",
+    "family": "Juniperus chinensis",
+    "task": "Marcotte / greffe",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L29",
+    "family": "Hêtre",
+    "task": "Rempotage",
+    "months": [
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": "Pincement à l’ouverture des bourgeons, fenêtre très courte. Une seule poussée dominante ; prudence sur défoliation et tailles répétées."
+  },
+  {
+    "id": "L30",
+    "family": "Hêtre",
+    "task": "Taille de structure",
+    "months": [
+      "—",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L31",
+    "family": "Hêtre",
+    "task": "Taille entretien",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L32",
+    "family": "Hêtre",
+    "task": "Pincement / chandelles",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L33",
+    "family": "Hêtre",
+    "task": "Aiguilles / bourgeons",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L34",
+    "family": "Hêtre",
+    "task": "Ligature",
+    "months": [
+      "OPTIMAL",
+      "OPTIMAL",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L35",
+    "family": "Hêtre",
+    "task": "Marcotte / greffe",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L36",
+    "family": "Chêne",
+    "task": "Rempotage",
+    "months": [
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": "Forte dominance apicale ; contrôler les zones fortes et favoriser les branches basses. Yamadori 2026 : aucune taille forte avant reprise confirmée."
+  },
+  {
+    "id": "L37",
+    "family": "Chêne",
+    "task": "Taille de structure",
+    "months": [
+      "—",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L38",
+    "family": "Chêne",
+    "task": "Taille entretien",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L39",
+    "family": "Chêne",
+    "task": "Pincement / chandelles",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L40",
+    "family": "Chêne",
+    "task": "Aiguilles / bourgeons",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L41",
+    "family": "Chêne",
+    "task": "Ligature",
+    "months": [
+      "OPTIMAL",
+      "OPTIMAL",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L42",
+    "family": "Chêne",
+    "task": "Marcotte / greffe",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L43",
+    "family": "Charme",
+    "task": "Rempotage",
+    "months": [
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": "Réagit bien aux tailles de retour sur bois vivant ; plusieurs cycles de taille possibles si vigueur forte. Défoliation facultative, jamais automatique."
+  },
+  {
+    "id": "L44",
+    "family": "Charme",
+    "task": "Taille de structure",
+    "months": [
+      "—",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L45",
+    "family": "Charme",
+    "task": "Taille entretien",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L46",
+    "family": "Charme",
+    "task": "Pincement / chandelles",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L47",
+    "family": "Charme",
+    "task": "Aiguilles / bourgeons",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L48",
+    "family": "Charme",
+    "task": "Ligature",
+    "months": [
+      "OPTIMAL",
+      "OPTIMAL",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L49",
+    "family": "Charme",
+    "task": "Marcotte / greffe",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L50",
+    "family": "Érables du Japon",
+    "task": "Rempotage",
+    "months": [
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": "Pincer sélectivement ; ne pas pincer les branches à épaissir. Tailles fortes plutôt en période active cicatrisante ; éviter coupes importantes au débourrement. Katsura : récupération."
+  },
+  {
+    "id": "L51",
+    "family": "Érables du Japon",
+    "task": "Taille de structure",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L52",
+    "family": "Érables du Japon",
+    "task": "Taille entretien",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L53",
+    "family": "Érables du Japon",
+    "task": "Pincement / chandelles",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L54",
+    "family": "Érables du Japon",
+    "task": "Aiguilles / bourgeons",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L55",
+    "family": "Érables du Japon",
+    "task": "Ligature",
+    "months": [
+      "OPTIMAL",
+      "OPTIMAL",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L56",
+    "family": "Érables du Japon",
+    "task": "Marcotte / greffe",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L57",
+    "family": "Mélèzes",
+    "task": "Rempotage",
+    "months": [
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": "Pincer les pousses tendres en finition ; laisser filer les branches à épaissir. Ligatures à surveiller de près pendant l’expansion printanière."
+  },
+  {
+    "id": "L58",
+    "family": "Mélèzes",
+    "task": "Taille de structure",
+    "months": [
+      "OPTIMAL",
+      "OPTIMAL",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L59",
+    "family": "Mélèzes",
+    "task": "Taille entretien",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L60",
+    "family": "Mélèzes",
+    "task": "Pincement / chandelles",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L61",
+    "family": "Mélèzes",
+    "task": "Aiguilles / bourgeons",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L62",
+    "family": "Mélèzes",
+    "task": "Ligature",
+    "months": [
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L63",
+    "family": "Mélèzes",
+    "task": "Marcotte / greffe",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L64",
+    "family": "Tamarin",
+    "task": "Rempotage",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": "Tropical : agir seulement en croissance active et chaleur stable. La réaction dépend fortement de la lumière et de la température."
+  },
+  {
+    "id": "L65",
+    "family": "Tamarin",
+    "task": "Taille de structure",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L66",
+    "family": "Tamarin",
+    "task": "Taille entretien",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L67",
+    "family": "Tamarin",
+    "task": "Pincement / chandelles",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L68",
+    "family": "Tamarin",
+    "task": "Aiguilles / bourgeons",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L69",
+    "family": "Tamarin",
+    "task": "Ligature",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L70",
+    "family": "Tamarin",
+    "task": "Marcotte / greffe",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L71",
+    "family": "Ficus",
+    "task": "Rempotage",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": "Rempoter et tailler fort seulement si croissance vigoureuse et chaleur stable. Éviter de cumuler réduction racinaire sévère et défoliation."
+  },
+  {
+    "id": "L72",
+    "family": "Ficus",
+    "task": "Taille de structure",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L73",
+    "family": "Ficus",
+    "task": "Taille entretien",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L74",
+    "family": "Ficus",
+    "task": "Pincement / chandelles",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L75",
+    "family": "Ficus",
+    "task": "Aiguilles / bourgeons",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L76",
+    "family": "Ficus",
+    "task": "Ligature",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L77",
+    "family": "Ficus",
+    "task": "Marcotte / greffe",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L78",
+    "family": "Pin noir du Japon",
+    "task": "Rempotage",
+    "months": [
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": "Pinus thunbergii : le mekiri (suppression des pousses de l’année) se pratique généralement fin juin–juillet UNIQUEMENT sur arbre très vigoureux, établi et avec saison chaude suffisante ; en Champagne, prudence et adaptation. Désaiguillage et sélection des bourgeons selon la force des zones. Sujet récemment acquis de plus de 30 ans : observer une saison avant interventions fortes."
+  },
+  {
+    "id": "L79",
+    "family": "Pin noir du Japon",
+    "task": "Taille de structure",
+    "months": [
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L80",
+    "family": "Pin noir du Japon",
+    "task": "Taille entretien",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L81",
+    "family": "Pin noir du Japon",
+    "task": "Pincement / chandelles",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L82",
+    "family": "Pin noir du Japon",
+    "task": "Aiguilles / bourgeons",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L83",
+    "family": "Pin noir du Japon",
+    "task": "Ligature",
+    "months": [
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "OPTIMAL"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L84",
+    "family": "Pin noir du Japon",
+    "task": "Marcotte / greffe",
+    "months": [
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L85",
+    "family": "Azalée satsuki",
+    "task": "Rempotage",
+    "months": [
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": "Rhododendron indicum × apparentés (satsuki Asazakura) : privilégier taille et sélection des pousses après floraison (souvent juin–juillet). Rempotage possible au printemps avant croissance ou juste après floraison si vigueur et météo le permettent ; préserver les racines fines. Supprimer les fleurs fanées et ovaires. Éviter taille tardive qui retire les boutons floraux de l’année suivante."
+  },
+  {
+    "id": "L86",
+    "family": "Azalée satsuki",
+    "task": "Taille de structure",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L87",
+    "family": "Azalée satsuki",
+    "task": "Taille entretien",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L88",
+    "family": "Azalée satsuki",
+    "task": "Pincement / chandelles",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L89",
+    "family": "Azalée satsuki",
+    "task": "Aiguilles / bourgeons",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L90",
+    "family": "Azalée satsuki",
+    "task": "Ligature",
+    "months": [
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS",
+      "SOUS CONDITIONS"
+    ],
+    "note": ""
+  },
+  {
+    "id": "L91",
+    "family": "Azalée satsuki",
+    "task": "Marcotte / greffe",
+    "months": [
+      "—",
+      "—",
+      "—",
+      "—",
+      "SOUS CONDITIONS",
+      "OPTIMAL",
+      "OPTIMAL",
+      "SOUS CONDITIONS",
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "note": ""
+  }
+]
