@@ -23,4 +23,8 @@ Navigateur réel Chromium intégré, dimensions simulées : PC 1440 × 960 ; mob
 
 ## Prévisualisation
 
-Adresse séparée prévue : `https://monsieurdeelah.github.io/calendrier-bonsai-preview-v3/v3-1/`. Sous-dossier autonome dans le dépôt de prévisualisation existant ; V3 et calendrier principal conservés. La publication et les derniers contrôles distants sont consignés après déploiement.
+Adresse séparée publiée et ouverte : `https://monsieurdeelah.github.io/calendrier-bonsai-preview-v3/v3-1/`. Sous-dossier autonome dans le dépôt de prévisualisation existant ; V3 et calendrier principal conservés. Déploiement vérifié le 16 novembre 2026. Version source `a0dd62268cad0ff62edd0ac354de453590af3c87`, copie de prévisualisation `8e5cd1b17fa4b8632797f35d5982003af424e654`.
+
+Contrôles distants : chargement V3.1, douze mois PC, Juniperus février/mars O, bonne fiche et retour au filtre annuel sur mobile ; rapport V3.1 accessible à son URL et retour vers le calendrier vérifiés. Pas d’erreur console observée. Le clic du lien vers le rapport n’a pas navigué lors de deux essais distants dans le navigateur intégré ; son adresse résolue est correcte et l’ouverture directe a réussi. Cette limite du parcours distant reste signalée.
+
+Compléments locaux : fiche mensuelle azalée en juin refermée par Retour avec famille, mois et période conservés ; navigation rapport aller/retour réussie. Captures PC et mobile enregistrées dans le dossier de travail.
