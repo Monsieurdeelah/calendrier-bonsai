@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-16",
+  "originalRows": 91,
+  "originalCells": 1092,
+  "proposedRows": 118,
+  "proposedCells": 1416,
+  "monthlyFilterRenders": 1344,
+  "annualViews": 14,
+  "syntax": "OK",
+  "coverage": "OK",
+  "note": "DOM simulé ; pas de vérification visuelle réelle ni de validation biologique par les tests."
+}
